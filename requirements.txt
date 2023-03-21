@@ -1,0 +1,10 @@
+install flask
+install mysqlclient
+install flask sql alchemy
+install flask login
+install flask mail
+
+
+add your admin credentials in config.json and gmail id and password
+
+
